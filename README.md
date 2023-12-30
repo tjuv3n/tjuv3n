@@ -57,6 +57,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wahlstrommm/wahlstrommm/output/snake.svg" alt="Snake animation" />
 
 ###
